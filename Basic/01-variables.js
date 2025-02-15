@@ -24,6 +24,6 @@ console.log(helloWorld2)
 const helloWorld3 = "¡Hola, JavaScript 3!"
 console.log(helloWorld3)
 
-// Error
+// Error  ya que le estoy cambiando el valor  a la constante
 // helloWorld3 = "¡Hola de nuevo, JavaScript 2!"
 // console.log(helloWorld3)

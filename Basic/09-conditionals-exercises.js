@@ -20,7 +20,7 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=8652
 
 // 7. Muestra el número de días que tiene un mes dependiendo de la variable del ejercicio anterior
 
-// switch
+// switch///
 
 // 8. Usa un switch para imprimir un mensaje de saludo diferente dependiendo del idioma
 

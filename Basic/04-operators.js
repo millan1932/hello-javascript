@@ -47,7 +47,7 @@ console.log(a == "6")
 console.log(a == a)
 console.log(a === a) // Igualdad por identidad (por tipo y valor) o igualdad estricta
 console.log(a === 6)
-console.log(a === "6")
+console.log(a === "6") //Esta es false, ya que el "6" es tipo string, y el valor de a es tipo number
 console.log(a != 6) // Desigualdad por valor
 console.log(a !== "6") // Desigualdad por identidad (por tipo y valor) o desigualdad estricta
 console.log(0 == false)
