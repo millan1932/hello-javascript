@@ -103,6 +103,7 @@ console.log(`Nos encontramos en ${estacion}.`);
 
 // 7. Muestra el número de días que tiene un mes dependiendo de la variable del ejercicio anterior
 
+<<<<<<< HEAD
 
 
 let valordia =5
@@ -132,6 +133,9 @@ switch (valordia) {
 }
 
 console.log(dia)
+=======
+// switch///
+>>>>>>> 4cc4ea4b74ec29aa7482946f15833ac19b7619ba
 
 // 8. Usa un switch para imprimir un mensaje de saludo diferente dependiendo del idioma
 let valoridioma =5
@@ -166,6 +170,7 @@ console.log(idioma)
 
 // 9. Usa un switch para hacer de nuevo el ejercicio 6
 
+<<<<<<< HEAD
 /*
 Casos agrupados: En lugar de escribir un case separado para cada mes, 
 los agrupamos (por ejemplo, case 12: case 1: case 2: para invierno).
@@ -195,3 +200,8 @@ console.log(`Nos encontramos en ${estacionx}.`);
 
 
 // 10. Usa un switch para hacer de nuevo el ejercicio 7
+=======
+// 10. Usa un switch para hacer de nuevo el ejercicio 7
+
+//Probando la subida en github
+>>>>>>> 4cc4ea4b74ec29aa7482946f15833ac19b7619ba
